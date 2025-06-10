@@ -1,16 +1,20 @@
-# weather_app
+# ☀️ Ease Weather App
 
-A new Flutter project.
+A simple, elegant Flutter weather app built with **BLoC** for state management, using **HTTP** to fetch real-time weather data from a free API.  
 
-## Getting Started
+## 🔍 Features
 
-This project is a starting point for a Flutter application.
+- 📡 weather forecast from a public weather API
+- 🧱 Powered by **BLoC architecture** for clean and scalable state management
+- 🖼️ Modern, responsive UI
+- 📅 Tap "2-Day Forecast" to view **tomorrow’s weather**
+- ⚙️ Easy-to-extend and customize
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen
+![Home Screen]![home](https://github.com/user-attachments/assets/4c7715b7-41dc-4d04-811b-242514802315)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 2-Day Forecast UI
+![2-Day Forecast]![forecast](https://github.com/user-attachments/assets/6f8f1d3f-afe2-4c89-b9ef-c972067e2fa0)
