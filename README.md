@@ -12,5 +12,6 @@ A simple, elegant Flutter weather app built with **BLoC** for state management, 
 
 ## 📸 Screenshots
 
-|Home Screen | 2-Day Forecast UI|
-|[home](https://github.com/user-attachments/assets/4c7715b7-41dc-4d04-811b-242514802315)|[forecast](https://github.com/user-attachments/assets/6f8f1d3f-afe2-4c89-b9ef-c972067e2fa0)|
+|Home Screen | 2-Day Forecast|
+|------|----------|
+|![Home](https://github.com/user-attachments/assets/4c7715b7-41dc-4d04-811b-242514802315)|![Forcast](https://github.com/user-attachments/assets/6f8f1d3f-afe2-4c89-b9ef-c972067e2fa0)|
